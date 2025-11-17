@@ -4,10 +4,14 @@ ssd: 9100 PRO w/ Heatsink SSD NVMeTM M.2 $150@1tb $250@2tb
 ram: Crucial DDR5-6400 CUDIMM $180@32gb $330@64gb
 motherboard: ASRock X870 Steel Legend WiFi 7 AMD Ryzen Socket AM5 ATX DDR5 $200
 chassis: $100
-power supply unit: 
-cpu cooler:
-fans: 
+power supply unit: $150-$250
+cpu cooler: $120-$180
+fans: $50
 
-$1250 low range (32gb ram, good cpu good gpu, 1tb fast ssd, good motherboard and chassis, fans, all new)
-$1850 mid range
-$2450 high range pc
+$900 super affordable starter (used ram cpu gpu nvme ssd, new motherboard, chassis, fans, cooler)
+$1500 low range (32gb ddr5 ram, good cpu good am5 gpu, 1tb nvme ssd)
+$2100 mid range
+$2700 high range pc (64gp ddr5 ram, best am5 cpu great gpu, 2tb nvme ssd)
+
+path i would take:
+start with a good motherboard and chassis, 512gb used cheap ssd, 16gb used ddr5, used am5 cpu, used ai gpu  
