@@ -4,10 +4,10 @@ ssd: 9100 PRO w/ Heatsink SSD NVMeTM M.2 $150@1tb $250@2tb
 ram: Crucial DDR5-6400 CUDIMM $180@32gb $330@64gb
 motherboard: ASRock X870 Steel Legend WiFi 7 AMD Ryzen Socket AM5 ATX DDR5 $200
 chassis: $100
-
+power supply unit: 
 cpu cooler:
 fans: 
 
 $1250 low range (32gb ram, good cpu good gpu, 1tb fast ssd, good motherboard and chassis, fans, all new)
-$1800 mid range
-$2500 high range pc
+$1850 mid range
+$2450 high range pc
