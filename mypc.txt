@@ -1,2 +1,8 @@
-9100 PRO w/ Heatsink 1TB SSD NVMeTM M.2
+ssd: 9100 PRO w/ Heatsink 1TB SSD NVMeTM M.2 $150
+ram: Crucial 32GB DDR5-6400 CUDIMM $180
+motherboard:
+chassis:
+cpu cooler:
+gpu:
+fans: 
 
