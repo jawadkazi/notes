@@ -15,3 +15,9 @@ $2700 high range pc (64gp ddr5 ram, best am5 cpu great gpu, 2tb nvme ssd)
 
 path i would take:
 start with a good motherboard and chassis, 512gb used cheap ssd, 16gb used ddr5, used am5 cpu, used ai gpu  
+
+motherboard: ASUS B650E-E TUF GAMING WIFI AMD AM5 ATX Motherboard - 165$
+Crucial 16GB DDR5 RAM Kit (2x8GB), 5600MHz, Compatible AMD Ryzen 7000 - 135$
+Crucial P310 1TB Internal SSD PCIe Gen 4 x4 NVMe M.2 - 80$
+ASRock Challenger Radeon RX 7600 8GB GDDR6 PCI Express 4.0 - 240$
+CPU cooler + PSU + case (aftermarket) ~ 40 50 70 ~ 160 total
